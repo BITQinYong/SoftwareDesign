@@ -1,0 +1,27 @@
+﻿Build started 2016/9/17 19:36:49.
+     1>Project "D:\Tencent\451863580\FileRecv\Mini-db(终结版）\Mini-db(终结版）\Mini-db(终结版）.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\data_structure.h(402): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\data_structure.h(593): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\syntax.h(82): warning C4101: 'position_update' : unreferenced local variable
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\syntax.h(139): warning C4101: 'pos_update_by' : unreferenced local variable
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\syntax.h(81): warning C4101: 'position_select' : unreferenced local variable
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\syntax.h(80): warning C4101: 'position_delete' : unreferenced local variable
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\syntax.h(147): warning C4101: 'pos_select_by_column' : unreferenced local variable
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\syntax.h(135): warning C4101: 'pos_delete_by' : unreferenced local variable
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\syntax.h(115): warning C4101: 'position_order_by' : unreferenced local variable
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\data_structure.h(100): warning C4715: 'AVLNode::Get_Dir' : not all control paths return a value
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\data_structure.h(549): warning C4715: 'Table::Find_Cond' : not all control paths return a value
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\data_structure.h(583): warning C4715: 'Table::GetString' : not all control paths return a value
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\data_structure.h(599): warning C4715: 'Table::GetNumber' : not all control paths return a value
+     1>d:\tencent\451863580\filerecv\mini-db(终结版）\mini-db(终结版）\support.h(73): warning C4715: 'type_data_judge' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Tencent\451863580\FileRecv\Mini-db(终结版）\Debug\Mini-db(终结版）.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Tencent\451863580\FileRecv\Mini-db(终结版）\Debug\Mini-db(终结版）.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Tencent\451863580\FileRecv\Mini-db(终结版）\Debug\Mini-db(终结版）.lib" /MACHINE:X86 Debug\main.obj
+         Mini-db(终结版）.vcxproj -> D:\Tencent\451863580\FileRecv\Mini-db(终结版）\Debug\Mini-db(终结版）.exe
+     1>Done Building Project "D:\Tencent\451863580\FileRecv\Mini-db(终结版）\Mini-db(终结版）\Mini-db(终结版）.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.84
